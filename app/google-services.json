@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "561693319080",
+    "firebase_url": "https://resepmasakan-178eb.firebaseio.com",
+    "project_id": "resepmasakan-178eb",
+    "storage_bucket": "resepmasakan-178eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561693319080:android:af2d07c69be095dd",
+        "android_client_info": {
+          "package_name": "com.example.user.resepmasakan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561693319080-ve79ukhcctj06cm1lfb35o0s8nqlnk42.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.resepmasakan",
+            "certificate_hash": "90cc51e56c13aa48661b4ae6483855dd80243a60"
+          }
+        },
+        {
+          "client_id": "561693319080-vpnu1155kkmacvvsds1p4e35ahridijl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASqX6hSZAg08Su96Q4zM8To-F6HP_wjbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561693319080-vpnu1155kkmacvvsds1p4e35ahridijl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
